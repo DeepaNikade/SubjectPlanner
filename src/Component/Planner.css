@@ -1,0 +1,16 @@
+.Container{
+
+}
+input{
+    margin: 5px;
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.inputcontainer button{
+    padding: 8px 19px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
